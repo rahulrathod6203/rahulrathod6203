@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, DSA.**
 
-- 💬 Ask me about **Java, Spring Boot, React, React Native**
+- 💬 Ask me about **Java, Spring Boot,Microservices**
 
 - 📫 How to reach me **rahulrathod6203@gmail.com**
 
